@@ -1,6 +1,6 @@
 package com.company.MyGenericStack;
 
-import com.company.hackerrankStack.Mystack;
+import com.company.Mystack;
 
 public class Main {
     public static void main(String[] args) {
