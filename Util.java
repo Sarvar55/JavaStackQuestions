@@ -13,7 +13,7 @@ public class Util {
                 myStack.push(c);
             else {
 
-                if (myStack.isEmpty())//}}]](( oldugu zaman alinmiyor ve
+                if (myStack.isEmpty())//}}]])) oldugu zaman alinmiyor ve
                     return false;
                 else {
                     char topVal = myStack.pop();
