@@ -1,6 +1,6 @@
 package com.company.MyGenericStack;
 
-import com.company.hackerrankStack.MyAbstractClass;
+import com.company.MyAbstractClass;
 
 public class MyStack<E> extends MyAbstractClass implements IStack<E> {
     private Node<E> top;
